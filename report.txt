@@ -1,11 +1,11 @@
-runs: 1000
-units: ms
-mean: 16.341
-variance: 228.28700600600598
-std_dev: 15.109169600146991
-conf_interval: (15.403405230156583, 17.27859476984342)
-min: 11
-max: 237
-median: 14.0
-25_percentile: 13.0
-75_percentile: 15.0
+runs: 10000
+units: miliseconds
+mean: 6.0972
+variance: 238.7238245424542
+std_dev: 15.450690099230332
+conf_interval: (5.794335377436667, 6.400064622563333)
+min: 4
+max: 1056
+median: 5.0
+25_percentile: 5.0
+75_percentile: 6.0
