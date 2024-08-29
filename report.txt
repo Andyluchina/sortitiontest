@@ -1,0 +1,9 @@
+mean: 16.341
+variance: 228.28700600600598
+std_dev: 15.109169600146991
+conf_interval: (15.403405230156583, 17.27859476984342)
+min: 11
+max: 237
+median: 14.0
+25_percentile: 13.0
+75_percentile: 15.0
