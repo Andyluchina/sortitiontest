@@ -1,3 +1,5 @@
+runs: 1000
+units: ms
 mean: 16.341
 variance: 228.28700600600598
 std_dev: 15.109169600146991

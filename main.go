@@ -16,7 +16,7 @@ import (
 
 func main() {
 
-	test_iterations := 10000
+	test_iterations := 100000
 
 	results := make([]int64, test_iterations)
 

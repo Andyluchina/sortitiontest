@@ -18,6 +18,8 @@ def analyze_data(data):
     conf_interval = stats.t.interval(0.95, len(data)-1, loc=mean, scale=stats.sem(data))
     
     metrics = {
+        'runs': len(data),
+        'units': "miliseconds",
         'mean': mean,
         'variance': variance,
         'std_dev': std_dev,
